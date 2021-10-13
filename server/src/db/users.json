@@ -1,0 +1,23 @@
+[
+  {
+    "id": "810373bd-28a9-42f0-acbf-015af5a51ef7",
+    "first_name": "Santiago",
+    "last_name": "Ruiz",
+    "email": "santiago@gmail.com",
+    "password": "$2a$10$i90gDJhBLDKjBjfjqjl.9OiVW32Rmyx.WQs0BebRGpZik0Q9tm6Yq"
+  },
+  {
+    "id": "b3711c44-0db7-4be3-8d71-aed8830e4908",
+    "first_name": "Santiago",
+    "last_name": "Ruiz",
+    "email": "santiagoproof@gmail.com",
+    "password": "$2a$10$fPppuvCq11lO1hsrltUqQe5FiZQqNmNooBQ.A6XpmU.XpCxrQh2Iq"
+  },
+  {
+    "id": "82c74e41-eb1e-4f44-b6a5-028c9cd3fe73",
+    "first_name": "New",
+    "last_name": "User",
+    "email": "new@user.com",
+    "password": "$2a$10$TCg4m2BdM0smsd7G93jJZ.VAbfOxOoZCE8onW1GPegGwaY194bG4i"
+  }
+]
