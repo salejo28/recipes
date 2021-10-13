@@ -60,4 +60,4 @@ El base url es **http://localhost:3000/api/**
 > ** DELETE base_url/recipies/:id, elimina la receta en relacion al **id** del parametro.
 > POST base_url/recipies/comment/:id, comenta una receta, la data que recibe es el **comment y el email del usuario que esta comentando**.
 > ** POST base_url/recipies/response/:rid/:cid/, responde un comentario, los parametros que se le pasa son **rid para el id de la receta y cid para el id del comentario**, la data que recibe es **el email de quien responde y la respuesta del comentario**.
-> POST base_url/recipies/qualify/:id/, califica la receta, la data que recibe es **qualification\*\* donde puede ser de 1 a 5.
+> POST base_url/recipies/qualify/:id/, califica la receta, la data que recibe es **qualification** donde puede ser de 1 a 5.
